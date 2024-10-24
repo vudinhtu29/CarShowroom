@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|solutionrelative:carshowroom\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|c:\\users\\tuvd\\documents\\github\\carshowroom\\carshowroom\\carshowroom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|solutionrelative:carshowroom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|c:\\users\\tuvd\\documents\\github\\carshowroom\\carshowroom\\carshowroom\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|solutionrelative:carshowroom\\views\\recipe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|c:\\users\\tuvd\\documents\\github\\carshowroom\\carshowroom\\carshowroom\\views\\recipe\\_sidemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|solutionrelative:carshowroom\\views\\recipe\\_sidemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|c:\\users\\tuvd\\documents\\github\\carshowroom\\carshowroom\\carshowroom\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|solutionrelative:carshowroom\\views\\recipe\\_searchbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|c:\\users\\tuvd\\documents\\github\\carshowroom\\carshowroom\\carshowroom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|solutionrelative:carshowroom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|c:\\users\\tuvd\\documents\\github\\carshowroom\\carshowroom\\carshowroom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F287C4-F35D-4192-9842-7C62324AF179}|CarShowroom\\CarShowroom.csproj|solutionrelative:carshowroom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarShowroom\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "CarShowroom\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T08:17:18.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "CarShowroom\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "CarShowroom\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBwAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "CarShowroom\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T08:16:53.175Z",
+              "WhenOpened": "2024-10-24T09:59:36.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_SideMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Recipe\\_SideMenu.cshtml",
+              "RelativeDocumentMoniker": "CarShowroom\\Views\\Recipe\\_SideMenu.cshtml",
+              "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Recipe\\_SideMenu.cshtml",
+              "RelativeToolTip": "CarShowroom\\Views\\Recipe\\_SideMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:31:12.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_SearchBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Recipe\\_SearchBar.cshtml",
+              "RelativeDocumentMoniker": "CarShowroom\\Views\\Recipe\\_SearchBar.cshtml",
+              "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Recipe\\_SearchBar.cshtml",
+              "RelativeToolTip": "CarShowroom\\Views\\Recipe\\_SearchBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:06:29.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Recipe\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShowroom\\Views\\Recipe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Recipe\\Index.cshtml",
+              "RelativeToolTip": "CarShowroom\\Views\\Recipe\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:04:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CarShowroom\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CarShowroom\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T08:16:14.821Z",
+              "WhenOpened": "2024-10-24T08:43:26.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarShowroom\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TuVD\\Documents\\GitHub\\CarShowroom\\CarShowroom\\CarShowroom\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarShowroom\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAMwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T08:43:03.407Z",
               "EditorCaption": ""
             }
           ]

@@ -13,7 +13,7 @@
     <header class="position-sticky top-0">
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand text-pink" asp-area="" asp-page="/Index">RADLEY SHOWROOM</a>
+                <a class="navbar-brand text-pink"  asp-controller="Home" asp-action="Index" as>RADLEY SHOWROOM</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -34,7 +34,7 @@
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
@@ -68,8 +68,12 @@
                         <span>New Mumbai,Maharashtra,India 102459</span>
                     </div>
                 </div>
+               
             </div>
+           
         </div>
+       
+       
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
